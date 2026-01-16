@@ -1,2 +1,2 @@
 # qr_generator
-simple code which helps to generate qrcodes of websites
+simple pyhton code which helps to generate qrcodes of websites
